@@ -45,7 +45,7 @@ nav a:focus {
 .container > :first-child {
   grid-column: 1 / -1;
 
-  background-image: url("/images/header.jpg");
+  background-image: url("images/header.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
